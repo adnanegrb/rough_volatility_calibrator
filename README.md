@@ -1,4 +1,4 @@
-# rough-volatility-calibrator
+# rough volatility calibrator
 
 Volatility models calibrated on real SPX options data, from Black-Scholes to Rough Bergomi.
 
