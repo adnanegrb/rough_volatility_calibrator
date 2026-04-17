@@ -1,6 +1,6 @@
 # rough volatility calibrator
 
-Volatility models calibrated on real SPX options data, from Black-Scholes to Rough Bergomi.
+Volatility models calibrated on real SPX options data, from Black-Scholes to Rough Bergomi
 
 BS assumes constant vol. Markets don't. This project builds from the BS baseline through Heston
 to the Rough Bergomi model (Bayer, Friz, Gatheral 2016), which captures the empirical roughness
